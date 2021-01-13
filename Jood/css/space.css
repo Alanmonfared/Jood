@@ -866,7 +866,7 @@ width:106rem;
 
 .nav-item-end {
     position: relative;
-    left:1rem;
+    left:-3rem;
     font-weight: 500;
     bottom: 1rem;
 }
@@ -955,7 +955,7 @@ width:106rem;
   .flex-container2 {
     position: relative;
     
-    left:-1rem!important;
+    left:-3rem!important;
   }
 
 
