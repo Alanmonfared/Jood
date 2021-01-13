@@ -866,7 +866,7 @@ width:106rem;
 
 .nav-item-end {
     position: relative;
-    left:-3rem;
+    left:1rem;
     font-weight: 500;
     bottom: 1rem;
 }
@@ -955,7 +955,7 @@ width:106rem;
   .flex-container2 {
     position: relative;
     
-    left:-3rem!important;
+    left:1rem!important;
   }
 
 
@@ -1010,6 +1010,36 @@ width:106rem;
         left: 2rem;
     }
     
+    .nav-item-end {
+        position: relative;
+        left:-3rem;
+        font-weight: 500;
+        bottom: 1rem;
+    }
+
+    
+    .flex-container {
+    position: relative;
+    bottom:5rem;
+    left:17rem!important;
+    }
+
+
+
+    .flex-container1 {
+        position: relative;
+        top:4rem;
+        left:-27rem!important;
+    }
+
+    
+  
+  .flex-container2 {
+    position: relative;
+    
+    left:-3rem!important;
+  }
+
 
 }
 
